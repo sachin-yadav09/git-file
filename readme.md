@@ -1,2 +1,2 @@
-## hey i'm using   git that push the code in github
+## hey i'm using   git 
 adding more info
